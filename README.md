@@ -20,15 +20,15 @@ I'm Vamshi, a passionate software developer with a strong interest in web develo
 
 <!-- Skills -->
 ## Skills
-- Programming Languages: Go, Java
-- Database: PostgreSQL
-- Version Control: Git, GitHub
-- Deployment: Jenkins
+- **Programming Languages:** Go, Java
+- **Database:** PostgreSQL
+- **Version Control:** Git, GitHub
+- **Deployment:** Jenkins
 
 <!-- Education -->
 ## Education
 - Bachelor of Computer Science, Bharath University (2021 - 2025)
-- Relevant Coursework: Data Structures, Algorithms, Machine Learning.
+- **Relevant Coursework:** Data Structures, Algorithms, Machine Learning.
 
 <!-- Certifications -->
 ## Certifications
