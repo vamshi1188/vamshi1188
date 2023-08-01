@@ -8,7 +8,7 @@
 
 <!-- Introduction -->
 ## Hey there! 👋
-I'm Vamshi, a passionate software developer with a strong interest in web development, data science, and open-source projects.
+I'm Vamshi, a passionate software developer with a strong interest in devops and open-source projects.
 
 <!-- GitHub Stats -->
 ## GitHub Stats
