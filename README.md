@@ -41,6 +41,7 @@ I'm Vamshi, a passionate software developer with a strong interest in devops and
 - **Database:** PostgreSQL
 - **Version Control:** Git, GitHub
 - **Deployment:** Jenkins
+- - **container technologies:** kubernetes , docker
 
 <!-- Education -->
 ## Education
