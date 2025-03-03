@@ -54,7 +54,7 @@ I'm Vamshi, a passionate software developer with a strong interest in devops and
 
 <!-- Contact -->
 ## Contact
-Feel free to reach out to me at saivamshi11@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/sai-vamshi-kottam-b78316208/).
+Feel free to reach out to me at saivamshik11@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/sai-vamshi-kottam-b78316208/).
 
 
 
