@@ -81,7 +81,7 @@ Aspiring **Backend Developer** focused on performance, security, and scalability
 
 <p align="center">
   <a href="https://wakatime.com/@vamshi1188">
-    <img src="https://wakatime.com/share/@vamshi1188/70dba90f-c79d-41dd-ae9e-ba1353f2c7e0.svg" width="48%"  />
+    <img src="https://wakatime.com/share/@vamshi1188/badeffc9-bc83-4054-89a1-7bb888235726.svg" width="48%" />
   </a>
 </p>
 
