@@ -65,8 +65,7 @@ Aspiring **Backend Developer** focused on performance, security, and scalability
 
 ---
 
-## 📊 Metrics & Widgets
-
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vamshi1188&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" width="48%" />
@@ -77,12 +76,14 @@ Aspiring **Backend Developer** focused on performance, security, and scalability
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vamshi1188&theme=tokyo-night&bg_color=1a1b27&color=ffffff&line=00bfff&point=ffffff&hide_border=true" />
 </p>
 
+---
+## ⏱ Weekly Coding Stats
 
-
-<!-- Optional WakaTime (if you use it) -->
-<!--
-[![WakaTime](https://wakatime.com/share/@vamshi1188/your-project-id.svg)](https://wakatime.com/@vamshi1188)
--->
+<p align="center">
+  <a href="https://wakatime.com/@vamshi1188">
+    <img src="https://wakatime.com/share/@vamshi1188/70dba90f-c79d-41dd-ae9e-ba1353f2c7e0.svg" width="48%"  />
+  </a>
+</p>
 
 ---
 
