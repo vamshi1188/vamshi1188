@@ -1,62 +1,123 @@
-<!-- Title -->
-# Vamshi's GitHub Profile
+<!-- Profile Header -->
+<h1 align="center">✨ Hey there, I'm <span style="color:#0891b2;">Saivamshi Kottam</span> 👋</h1>
 
-<!-- Badges (optional) -->
-![GitHub Followers](https://img.shields.io/github/followers/vamshi1188?style=social)
-![GitHub Stars](https://img.shields.io/github/stars/vamshi1188?style=social)
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=vamshi1188)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=0891B2&width=435&lines=Golang+Backend+Developer;DevOps+Enthusiast;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+</p>
 
-<!-- Introduction -->
-## Hey there! 👋
-I'm Vamshi, a passionate software developer with a strong interest in devops and open-source projects.
+<p align="center">
+  <a href="https://github.com/vamshi1188"><img src="https://img.shields.io/github/followers/vamshi1188?label=Followers&style=social" /></a>
+  <a href="https://github.com/vamshi1188"><img src="https://img.shields.io/github/stars/vamshi1188?label=Stars&style=social" /></a>
+  <a href="https://github.com/vamshi1188"><img src="https://komarev.com/ghpvc/?username=vamshi1188&style=flat-square&color=blue" /></a>
+</p>
 
-<!-- GitHub Stats -->
-## GitHub Stats
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vamshi1188&show_icons=true&theme=vue)-->
-<h2 align="center">My GitHub Stats</h2>
-  </div>
-  <div align="center">
-    <table>
-      <tr>
-        <td width="45%">
-          <a href="http://www.github.com/vamshi1188"><img src="https://github-readme-stats.vercel.app/api?username=vamshi1188&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Swpn0neel's GitHub stats" /></a> 
-        </td>
-        <td width="45%">
-          <a href="http://www.github.com/vamshi1188"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vamshi1188&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </table>
-      </div>
-      <a href="http://www.github.com/vamshi1188"><img src="https://github-readme-activity-graph.vercel.app/graph?username=vamshi1188&theme=merko&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-    </td>
-  </tr>
+---
 
-<hr>
+## 💫 About Me
 
-<!-- Top Languages -->
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vamshi1188&layout=compact&theme=dracula)
+Aspiring **Backend Developer** focused on performance, security, and scalability.  
+💻 Coding in **Go**, deploying with **Docker & Kubernetes**, and testing with **Keploy**.  
+🚀 Passionate about cloud-native development, system design, and DevOps pipelines.  
+📚 Currently pursuing B.Tech and building open-source projects with purpose.
 
-<!-- Skills -->
-## Skills
-- **Programming Languages:** Go, Java
-- **Database:** PostgreSQL
-- **Version Control:** Git, GitHub
-- **Deployment:** Jenkins
-- **container technologies:** kubernetes , docker
+---
 
-<!-- Education -->
-## Education
-- Bachelor of Computer Science, Bharath University (2021 - 2025)
-- **Relevant Coursework:** Data Structures, Algorithms, Machine Learning.
+## 🛠️ Tech Stack
 
-<!-- Certifications -->
-## Certifications
-- [Introduction to Databases (Coursera, 2023)](https://www.coursera.org/account/accomplishments/verify/5W83UHU3K6TD?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=android)
+<div align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
 
-<!-- Contact -->
-## Contact
-Feel free to reach out to me at saivamshik11@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/sai-vamshi-kottam-b78316208/).
+---
+
+## 🚀 Featured Projects
+
+### 🎮 [Go Pong Game](https://github.com/vamshi1188/pongmaster)
+> A classic arcade game built in Go with modern enhancements  
+✅ Dynamic ball physics & adaptive difficulty  
+✅ Smooth animations with concurrency (goroutines)  
+✅ Persistent high-score tracking
+
+---
+
+### 💳 [Golang Payment Gateway Backend](https://github.com/vamshi1188/Ecommerce_go/tree/master/Backend_file)
+> RESTful backend service for secure online payments  
+✅ Stripe integration for transaction security  
+✅ Modular architecture and clean error handling  
+✅ Fully tested & production-ready API backend
+
+---
+
+### 🔐 [Authify – JWT Auth System](https://github.com/vamshi1188/Authify)
+> Full-stack authentication system built during Keploy Fellowship  
+✅ Go + Fiber + MySQL backend  
+✅ JWT-secured routes for Login/Register/Profile  
+✅ Unit & integration tests with Keploy
+
+---
+
+## 📊 Metrics & Widgets
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vamshi1188&show_icons=true&theme=radical&hide_border=true&border_radius=10&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vamshi1188&theme=radical&hide_border=true&border_radius=10" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vamshi1188&theme=tokyo-night&bg_color=1a1b27&color=ffffff&line=00bfff&point=ffffff&hide_border=true" />
+</p>
 
 
 
+<!-- Optional WakaTime (if you use it) -->
+<!--
+[![WakaTime](https://wakatime.com/share/@vamshi1188/your-project-id.svg)](https://wakatime.com/@vamshi1188)
+-->
 
-<!-- End -->
+---
+
+## 🔝 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamshi1188&layout=compact&theme=dracula&hide_border=true" />
+</p>
+
+---
+
+## 🎓 Education
+
+🎓 **B.Tech in Computer Science & Engineering**  
+📍 Bharath University, Chennai  
+📅 Aug 2022 – May 2025 | CGPA: **7.96/10**  
+📘 Courses: OOP, OS, DSA, DBMS, CN, ML, Blockchain
+
+---
+
+## 📜 Certifications
+
+- 🐳 [Docker Training – KodeKloud (Oct 2023)](https://learn.kodekloud.com/certificate/2D01AED6E069-2D01A8D2596D-2D01A3468541)
+- 🧠 [Intro to Databases – Coursera (Apr 2023)](https://www.coursera.org/account/accomplishments/verify/5W83UHU3K6TD?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=android)
+
+---
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:vamshigodev@gmail.com"><img src="https://img.shields.io/badge/email-vamshigodev@gmail.com-blue?style=flat&logo=gmail&logoColor=white" /></a>  
+  <a href="https://linkedin.com/in/vamshi1188"><img src="https://img.shields.io/badge/LinkedIn-vamshi1188-blue?style=flat&logo=linkedin&logoColor=white" /></a>  
+  <a href="https://github.com/vamshi1188"><img src="https://img.shields.io/badge/GitHub-vamshi1188-181717?style=flat&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center"><b>✨ Thanks for visiting! Let's build something amazing. 🚀</b></p>
