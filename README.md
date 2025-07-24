@@ -106,8 +106,10 @@ Aspiring **Backend Developer** focused on performance, security, and scalability
 
 ## 📜 Certifications
 
+
 - 🐳 [Docker Training – KodeKloud (Oct 2023)](https://learn.kodekloud.com/certificate/2D01AED6E069-2D01A8D2596D-2D01A3468541)
 - 🧠 [Intro to Databases – Coursera (Apr 2023)](https://www.coursera.org/account/accomplishments/verify/5W83UHU3K6TD?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=android)
+- 🏅 [GitHub Foundations – GitHub via Credly (Issued 2024)](https://www.credly.com/badges/77e4f79f-f363-45a7-ac21-f7e406b0f486/public_url)
 
 ---
 
